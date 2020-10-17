@@ -1,7 +1,7 @@
 ---
 title: Small Talks
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Birthday hai toh party de na<br />Is baar mast ambience walae me jana tha re.'
 image: assets/images/m18.jpg
 nav-menu: true
 ---
@@ -9,15 +9,15 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
+One
+<!-- <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>When's the next outing?</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>It's been so long since....., since anything. When are you going to give me party? There are like a thousand reasons why you should. Little one, meet me soon. We'll go somewhere awesome. And yes, a good ambience is at the top of the priority list.</p>
 	</div>
-</section>
+</section> -->
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -28,11 +28,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Party Buddy: When's the next outing?</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>It's been so long since....., since anything. When are you going to give me party? There are like a thousand reasons why you should. Little one, meet me soon. We'll go somewhere awesome. And yes, a good ambience is at the top of the priority list. So don't worry about it you pglet. Nice pic by the way, I wonder who took it? 🤔</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Let's Go</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,11 +44,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>NSO buddy: Cartwheel bhi ho jayega re. </h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Green!!!!! Hehe. I have only seen a few people like you. You push yourself a lot. And then you get all worked up. But I haven't seen anyone with the same passion and motivation as you. Chal bhag le </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Yeh buttons se kuch nhi hota!!</a></li>
 				</ul>
 			</div>
 		</div>
@@ -60,11 +60,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>CSC Buddy: Timepassu</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Ohhh. From where do I start? Enamuel?? Hehe. So many memories of CSC, right? Nah, how would you remember, you used to simply sleep over there. You are one weird kiddo. CSC is a comfortable place to sleep btw, right? 7 AM chilled mornings. 🥶🥶. Long talks, studies and what not.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">No Timepass 😠</a></li>
 				</ul>
 			</div>
 		</div>
