@@ -9,7 +9,7 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-One
+<!-- One -->
 <!-- <section id="one">
 	<div class="inner">
 		<header class="major">
