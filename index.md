@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home
-landing-title: 'Happie Birthday Little kiddo 🥂'
+title: HBD
+landing-title: 'Happie Birthday, little kiddo 🥂'
 description: null
 image: null
 author: null
