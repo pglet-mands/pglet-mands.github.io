@@ -2,7 +2,7 @@
 layout: post
 title: Long Talks
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/m15.jpeg
 nav-menu: true
 ---
 
